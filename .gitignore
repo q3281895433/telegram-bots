@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+env.txt
+*.db
+*.db-*
+*.sqlite*
+*.log
+nohup.out
+__pycache__/
+*.pyc
+venv/
+.venv/
+*.bak*
+.DS_Store
